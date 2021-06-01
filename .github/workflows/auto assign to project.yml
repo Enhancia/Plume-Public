@@ -16,3 +16,4 @@ jobs:
       if: github.event.action == 'opened'
       with:
         project: 'https://github.com/Enhancia/Plume-Public/projects/1'
+        column_name: 'Backlog and ideas'
