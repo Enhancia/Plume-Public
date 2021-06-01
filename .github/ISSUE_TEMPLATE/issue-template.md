@@ -9,6 +9,7 @@ assignees: ''
 
 **Description**
 
-**Tested on:**
+
+**infos**
 OS:
 Plume version:
